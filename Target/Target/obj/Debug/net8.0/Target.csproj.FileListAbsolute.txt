@@ -1,0 +1,14 @@
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\bin\Debug\net8.0\Target.exe
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\bin\Debug\net8.0\Target.deps.json
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\bin\Debug\net8.0\Target.runtimeconfig.json
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\bin\Debug\net8.0\Target.dll
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\bin\Debug\net8.0\Target.pdb
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.AssemblyInfoInputs.cache
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.AssemblyInfo.cs
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.dll
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\refint\Target.dll
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.pdb
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.genruntimeconfig.cache
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\ref\Target.dll
