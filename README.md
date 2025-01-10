@@ -9,4 +9,4 @@ Este repositório contém as soluções para os exercícios técnicos propostos.
 5. **Inversão de String**: Inverte os caracteres de uma string sem usar funções prontas.
 
 ## Como Executar
-Compile os arquivos C# usando o .NET SDK:
+Compile os arquivos C# usando o .NET SDK, o arquivo principal foi divido em métodos em Program.cs
