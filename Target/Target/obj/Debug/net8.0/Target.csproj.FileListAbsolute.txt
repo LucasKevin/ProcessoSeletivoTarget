@@ -12,3 +12,4 @@ C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\refint\Target.d
 C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.pdb
 C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.genruntimeconfig.cache
 C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\ref\Target.dll
+C:\Users\Lucas Kevin\Teste\Target\Target\Target\obj\Debug\net8.0\Target.sourcelink.json

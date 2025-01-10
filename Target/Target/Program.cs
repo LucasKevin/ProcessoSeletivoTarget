@@ -164,16 +164,19 @@ namespace Target
 
         static void InverteString()
         {
-            Console.Clear();
-            Console.Write("Digite uma string para inverter: ");
+            Console.WriteLine("Digite uma string para inverter:");
             string input = Console.ReadLine();
+            string invertida = "";
 
-            string invertida = new string(input.Reverse().ToArray());
+            for (int i = input.Length - 1; i >= 0; i--)
+            {
+                invertida += input[i];
+            }
 
             Console.WriteLine($"String invertida: {invertida}");
 
-            Console.ReadKey();
-            Menu();
+                Console.ReadKey();
+                Menu();
         }
     }
 }
